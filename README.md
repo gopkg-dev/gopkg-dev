@@ -1,6 +1,6 @@
 ### Hi there 👋
-
-![](https://github.com/gopkg-dev/gopkg-dev/blob/master/images/header.png)
+  
+[![](https://github.com/gopkg-dev/gopkg-dev/raw/master/images/header.png)](https://gopkg.me/)
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=gopkg-dev&show_icons=true&count_private=true&include_all_commits=true&line_height=20" />
 
