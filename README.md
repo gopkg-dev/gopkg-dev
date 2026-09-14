@@ -4,4 +4,5 @@
 
 [![My Skills](https://skillicons.dev/icons?i=linux,go,rust,js,ts,react,vue,tailwind,docker,git,mysql,redis&theme=light#gh-light-mode-only)](https://asin1.com)
 
+[![Tokens Stats](https://tokens.ci/api/embed/gopkg-dev/svg?template=terminal&graph=1&today=1&tokens=compact&cost=full)](https://tokens.ci/u/gopkg-dev)
 [![Tokens Stats](https://tokens.ci/api/embed/gopkg-dev/svg?template=detailed&tokens=compact&cost=compact)](https://tokens.ci/u/gopkg-dev)
